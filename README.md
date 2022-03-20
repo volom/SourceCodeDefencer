@@ -1,4 +1,4 @@
-Defense your python project/separated file by hiding it using encryption
+Defense your python project/separated file by hiding it using encryption with remaining functionality and output
 
 ❕ This tool will be useful if you want to share your Python project/separated file without revealing its source code. All contents of the files are encrypted and cannot be read by a person, while this does not affect the functionality and the output of the code.
 
