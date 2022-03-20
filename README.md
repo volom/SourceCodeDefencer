@@ -1,6 +1,6 @@
-Defense your python project by hiding it using encryption
+Defense your python project/separated file by hiding it using encryption
 
-❕ This tool will be useful if you want to share your Python project without revealing its source code. All contents of the files are encrypted and cannot be read by a person, while this does not affect the functionality and the output of the code.
+❕ This tool will be useful if you want to share your Python project/separated file without revealing its source code. All contents of the files are encrypted and cannot be read by a person, while this does not affect the functionality and the output of the code.
 
 --------------------------------------------
 
@@ -8,14 +8,17 @@ Defense your python project by hiding it using encryption
 
 ```
 cd ../SourceCodeDefencer
-python run_defencer.py
-Please, enter path to project folder -> ./path_target_project
+
+> python run_defencer.py
+
+> Please, enter path to project folder -> ./path_target_project
 ```
 OR
 
 ```
-cd ../SourceCodeDefencer
-python run_defencer.py ./path_target_project
+> cd ../SourceCodeDefencer
+
+> python run_defencer.py ./path_target_project
 ```
 
 --------------------------------------------
