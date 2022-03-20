@@ -7,18 +7,18 @@ Defense your python project/separated file by hiding it using encryption
 🛠 *Usage*:
 
 ```
-cd ../SourceCodeDefencer
+>> cd ../SourceCodeDefencer
 
-> python run_defencer.py
+>> python run_defencer.py
 
-> Please, enter path to project folder -> ./path_target_project
+>> Please, enter path to project folder -> ./path_target_project
 ```
 OR
 
 ```
-> cd ../SourceCodeDefencer
+>> cd ../SourceCodeDefencer
 
-> python run_defencer.py ./path_target_project
+>> python run_defencer.py ./path_target_project
 ```
 
 --------------------------------------------
